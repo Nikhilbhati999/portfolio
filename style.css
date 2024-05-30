@@ -9,12 +9,12 @@
     width: 100%;
     /* border: 1px solid black; */
     /* background: linear-gradient(45deg,rgba(214, 210, 168, 0.531),rgb(240, 215, 163)); */
-    background-color: blanchedalmond;
+    background-color: rgb(8, 250, 197);
     position: fixed;
    
 }
 .child1 h1{
-    color: rgb(71, 115, 6);
+    color: rgb(23, 7, 236);
      margin-left: 30px;
    
 }
@@ -49,7 +49,7 @@
 
  a:hover{
     font-size: 1.5rem;
-    color: yellow;
+    color: rgb(241, 14, 192);
     border-radius: 10%;
     
     /* border: 1px solid grey; */
@@ -105,7 +105,7 @@ border: none;
     background-color:rgb(85, 208, 189); 
 }
 .text #resume{
-    background-color:rgb(207, 125, 90);
+    background-color:rgb(241, 206, 7);
     width: 9.4rem; 
 }
 @media (min-width:480px) and (max-width:768px){
@@ -120,6 +120,7 @@ border: none;
     margin-top: 0%;
     width: 100%;
     height: 45rem;
+    background-color: black;
    
  
 }
@@ -188,11 +189,12 @@ border: none;
     height: 35rem;
     /* border: 1px solid black; */
     display: flex;
+    background-color: aqua;
 }
 
 .section3 h1{
     margin-left: 70%;
-    color: green;
+    color: rgb(243, 6, 6);
     font-size: 2.2rem;
 }
 .section3 .info{
@@ -212,7 +214,7 @@ body{
 .section3 .info h2{
    
     font-size: 2rem;
-    color: green;
+    color: rgb(53, 66, 5);
 }
 .section3 img{
     margin: 2rem 5rem;
@@ -221,7 +223,7 @@ body{
 }
 .section3 h4{
     font-size: 2rem;
-    color: rgb(8, 247, 67);
+    color: rgb(239, 8, 247);
 }
 .section4 p{
     margin-right: 5rem;
@@ -314,7 +316,7 @@ body{
 .footer{
     width: 100%;
     height: 100px;
-    background-color: orange;
+    background-color: rgb(255, 0, 0);
    
 }
 .footer h2{
